@@ -1,0 +1,19 @@
+[
+    {
+      "title": "React Blog Web App",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a responsive Single Page Application (SPA) using React Router and Browser Router, delivering an intuitive and engaging user experience with smooth transitions between views Established effective communication between components through props variables, fostering collaboration and maintaining an organized code structure, enhancing the overall responsiveness of the application",
+      "skills": ["React", "Javascript", "Css"],
+      "demo": "https://tangerine-llama-1a6e09.netlify.app/",
+      "source": "https://github.com/monupal057/Blog-web"
+    },
+    {
+      "title": "To Do Application",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a user-friendly web application designed for efficient daily task management. Users can seamlessly schedule their entire day, ensuring a well-organized routine , Implemented a scheduling feature that enables users to plan and organize their daily activities in a timely manner. The application facilitates the effective management of tasks and events throughout the day",
+      "skills": ["Html", "Css", "Javscript"],
+      "demo": "https://monupal057.github.io/TodoApp/",
+      "source": "https://github.com/monupal057/TodoApp"
+    }
+    
+  ]
