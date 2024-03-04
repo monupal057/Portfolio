@@ -4,15 +4,15 @@
     "organisation": "Pepcoding",
     "startDate": "July, 2022",
     "endDate": "Jan 2023",
-    "experiences": ["Work on user Experience and Demonstrating a commitment to comphrensive education delivery"],
-    "imageSrc": "history/pepcoding.png"
+    "experiences": ["Work on user Experience and Demonstrating a commitment to comphrensive education delivery ."],
+    "imageSrc": "history/Pepcoding.png"
   },
   {
     "role": "Web Development and Design intern",
     "organisation": "The Spark Foundation",
     "startDate": "Sep, 2021",
     "endDate": "Oct, 2022",
-    "experiences": ["Developed a dynamic website for a Basic Banking System as part of a task assigned by The Spark Foundation ,Successfully integrated seamless balance transfer functionalities and a Transfer table to record and track all transactions demonstrating proficiency in web development and database management. "],
-    "imageSrc": "./history/Spark Foundation.png"
+    "experiences": ["Developed a user-friendly web application designed for efficient daily task management. Users can seamlessly schedule their entire day, ensuring a well-organized routine , Implemented a scheduling feature that enables users to plan and organize their daily activities in a timely manner. The application facilitates the effective management of tasks and events throughout the day, and its also respnosive of all devices. "],
+    "imageSrc": "history/Spark Foundation.png"
   }
 ]
